@@ -1,0 +1,51 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\ahshir01\Desktop\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\ahshir01\Desktop\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\ahshir01\Desktop\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\ahshir01\Desktop\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\ahshir01\Desktop\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\ahshir01\Desktop\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\ahshir01\Desktop\Prog2Start\Prog2\Prog2\obj\Debug\LibraryItems.Form1.resources
+C:\Users\ahshir01\Desktop\Prog2Start\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\ahshir01\Desktop\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\obj\Debug\Prog2.exe
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\obj\Debug\Prog2.pdb
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\bin\Debug\Prog2.exe
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\bin\Debug\Prog2.pdb
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\obj\Debug\LibraryItems.AddPatron.resources
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\obj\Debug\LibraryItems.addbook.resources
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\obj\Debug\LibraryItems.LibraryForm.resources
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\obj\Debug\LibraryItems.checkout.resources
+C:\Users\ahshir01\Desktop\Prog2 Austin\Prog2\obj\Debug\LibraryItems.return.resources
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\bin\Debug\Prog2.exe.config
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\obj\Debug\Prog2.exe
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\obj\Debug\Prog2.pdb
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\bin\Debug\Prog2.exe
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\bin\Debug\Prog2.pdb
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\obj\Debug\LibraryItems.addbook.resources
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\obj\Debug\LibraryItems.AddPatron.resources
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\obj\Debug\LibraryItems.checkout.resources
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\obj\Debug\LibraryItems.LibraryForm.resources
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\obj\Debug\LibraryItems.return.resources
+F:\CIS 200 - Copy Austin\Programs\Prog2 Austin\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
