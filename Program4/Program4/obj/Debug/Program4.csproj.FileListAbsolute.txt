@@ -1,0 +1,9 @@
+c:\users\ahshir01\documents\visual studio 2012\Projects\Program4\Program4\bin\Debug\Program4.exe.config
+C:\Users\ahshir01\Documents\Visual Studio 2012\Projects\Program4\Program4\bin\Debug\Program4.exe
+C:\Users\ahshir01\Documents\Visual Studio 2012\Projects\Program4\Program4\bin\Debug\Program4.pdb
+C:\Users\ahshir01\Documents\Visual Studio 2012\Projects\Program4\Program4\obj\Debug\Program4.csprojResolveAssemblyReference.cache
+C:\Users\ahshir01\Documents\Visual Studio 2012\Projects\Program4\Program4\obj\Debug\Program4.Form1.resources
+C:\Users\ahshir01\Documents\Visual Studio 2012\Projects\Program4\Program4\obj\Debug\Program4.Properties.Resources.resources
+C:\Users\ahshir01\Documents\Visual Studio 2012\Projects\Program4\Program4\obj\Debug\Program4.csproj.GenerateResource.Cache
+C:\Users\ahshir01\Documents\Visual Studio 2012\Projects\Program4\Program4\obj\Debug\Program4.exe
+C:\Users\ahshir01\Documents\Visual Studio 2012\Projects\Program4\Program4\obj\Debug\Program4.pdb
