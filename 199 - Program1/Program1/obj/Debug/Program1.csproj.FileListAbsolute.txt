@@ -1,0 +1,14 @@
+c:\users\ahshir01\documents\visual studio 2012\Projects\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\ahshir01\documents\visual studio 2012\Projects\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\Users\ahshir01\documents\visual studio 2012\Projects\Program1\Program1\obj\Debug\Program1.Program1.resources
+C:\Users\ahshir01\documents\visual studio 2012\Projects\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\ahshir01\documents\visual studio 2012\Projects\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+C:\Users\ahshir01\Desktop\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\ahshir01\Desktop\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\Users\ahshir01\Desktop\Program1\Program1\obj\Debug\Program1.Program1.resources
+C:\Users\ahshir01\Desktop\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\ahshir01\Desktop\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+C:\Users\ahshir01\Desktop\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\ahshir01\Desktop\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\ahshir01\Desktop\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\ahshir01\Desktop\Program1\Program1\obj\Debug\Program1.pdb
